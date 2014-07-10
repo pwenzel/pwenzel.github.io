@@ -7,5 +7,3 @@ published: true
 sample thing using markdown.
 
 test test.
-
-Hello.
