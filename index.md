@@ -1,7 +1,7 @@
 ---
 layout: default
-title: This is a sample
+title: Sample thinger.
 published: true
 ---
 
-Hello, Will.
+HELLO WORLD
