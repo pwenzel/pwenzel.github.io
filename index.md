@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample thinger.
+title: Sample thinger?
 published: true
 ---
 
