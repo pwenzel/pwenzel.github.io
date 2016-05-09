@@ -1,5 +1,10 @@
 /* http://foundation.zurb.com/sites/docs/media-queries.html */
 
+/* Small and up */
+
+@media screen {
+	@import "small-up";
+}
 /* Small only */
 @media screen and (max-width: 39.9375em) {
   @import "small-only";
