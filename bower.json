@@ -1,0 +1,21 @@
+{
+  "name": "pwenzel.github.io",
+  "homepage": "https://github.com/pwenzel/pwenzel.github.io",
+  "authors": [
+    "Paul Wenzel <paul@pwenzel.info>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.2.1"
+  }
+}
