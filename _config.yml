@@ -7,7 +7,7 @@
 
 # Site settings
 title: Paul Wenzel
-email: paul@co-opmedia.org
+email: paul@pwenzel.info
 description:
 baseurl:
 url: "https://pwenzel.info" # the base hostname & protocol for your site
@@ -17,5 +17,3 @@ github_username:  pwenzel
 # Build settings
 markdown: kramdown
 exclude: ["bower*","README*","CNAME","Gemfile*","ruby-version"]
-sass:
-    style: compressed
