@@ -2,22 +2,31 @@
 layout: default
 ---
 
-<div class="home">
+<div class="row">
 
-  <h1 class="page-heading">Posts</h1>
+  <section class="small-2 columns">
+    <h2>Projects</h2>
+    <p>Test</p>
+  </section>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <section class="small-2 columns">
+    <h2>Work Places</h2>
+    <p>Test</p>
+  </section>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <section class="small-2 columns">
+    <h2>Online Activities</h2>
+    <p>Test</p>
+  </section>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <section class="small-2 columns">
+    <h2>Resume</h2>
+    <p>Test</p>
+  </section>
+
+  <section class="small-2 columns">
+    <h2>Contact</h2>
+    <p>Test</p>
+  </section>
 
 </div>
